@@ -2,11 +2,12 @@
     "name": "tigerbytes-code",
     "version": "2.3.0-beta.1",
     "license": "MIT",
-    "author": "The Pybricks Authors",
+    "author": "The Pybricks Authors AND Zach Tech",
     "repository": {
         "type": "git",
         "url": "https://github.com/pybricks/pybricks-code"
     },
+    "packageManager": "yarn@4.9.1",
     "dependencies": {
         "@babel/core": "^7.23.9",
         "@blueprintjs/core": "^5.8.2",
