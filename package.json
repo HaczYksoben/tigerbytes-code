@@ -7,7 +7,7 @@
         "type": "git",
         "url": "https://github.com/pybricks/pybricks-code"
     },
-    "packageManager": "yarn@4.9.1",
+    "packageManager": "yarn@3.3.0",
     "dependencies": {
         "@babel/core": "^7.23.9",
         "@blueprintjs/core": "^5.8.2",
