@@ -1,0 +1,27 @@
+{
+    "short_name": "%REACT_APP_NAME%",
+    "name": "%REACT_APP_NAME%",
+    "icons": [
+        {
+            "src": "logo192%REACT_APP_SUFFIX%.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any"
+        },
+        {
+            "src": "logo192m%REACT_APP_SUFFIX%.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "logo512%REACT_APP_SUFFIX%.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
